@@ -14,7 +14,7 @@ ___
 
 ## Sobre
 
-Repositório que contem códigos e atividades de estudos em Ruby, PHP, Javascript e Java.
+Repositório que contem códigos e atividades de estudos em Ruby, PHP, Javascript e Java e tópicos essenciais para o profissional desenvolvedor.
 
 ## Motivo
 
