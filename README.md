@@ -24,14 +24,14 @@ Objetivo desse repositório e gerenciar as atividades requisitadas e sugeridas p
 
 ## Tecnologias Utilizadas 
 
-O projeto foi desenvolvido utilizando as seguintes tecnologias
+No começo o estudo foi seguintes nas seguintes tecnologias
 
 - Java
 - JavaScript
 - Ruby
 - PHP
 
-
+Porem teve continuidade no Ruby apenas no projeto <a href="https://github.com/desenvolvendome/growth_channel">growth_channel</a>, no momento estou usando o projeto desse repositório para ir documentando o que eu estou aprendendo, mas o código em si relacionado ao ruby usando tudo que eu venho aprendendo está no projeto growth_channel.
 
 ## Licença 
 
